@@ -10,3 +10,4 @@ This is being written on sinatra.
 * (optionally) gem install thin, lightweight server
 * run `ruby dnsupdate.rb`
 * open browser to `localhost:4567`
+
